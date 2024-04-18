@@ -1,0 +1,7 @@
+output
+*.mp4
+fr3/shutterstock6.webm
+fr3/Fast 5_ Salute Mi Familia.mp4
+data/*
+yolov8x.pt
+yolov8n.pt
